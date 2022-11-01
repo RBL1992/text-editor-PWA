@@ -6,11 +6,7 @@
 
 * [Usage](#usage)
 
-* [License](#license)
-
 * [Contributors](#contributors)
-
-* [Testing](#testing)
 
 * [Questions](#questions)
 
@@ -24,17 +20,8 @@ The app will be a single-page application that meets the PWA criteria. Additiona
 I WANT to create notes or code snippets with or without an internet connection
 SO THAT I can reliably retrieve them for later use
 
-
-## License
-
-
 ## Contributors
 Class activities
-
-
-## Testing
-N/A
-
 
 ## Questions
 
